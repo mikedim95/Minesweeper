@@ -1,0 +1,5 @@
+Mines: 35 click number: 2 time elapsed: 1 Won: false
+Mines: 35 click number: 4 time elapsed: 5 Won: false
+Mines: 35 click number: 3 time elapsed: 70 Won: false
+Mines: 35 click number: 1 time elapsed: 4 Won: false
+Mines: 35 click number: 1 time elapsed: 0 Won: false
